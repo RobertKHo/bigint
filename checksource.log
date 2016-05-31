@@ -1,0 +1,9 @@
+checksource: improper character \x09 = ^I (tab)
+   file "#bigint.cpp#": 82 errors: lines 68, 73--74, 76--77, 169--178, 
+        287--288, 293--298, 364, 366, 406, 408, 410--411, 421--424, 
+        427--430, 432--435, 438, 441--442, 444--459, 461, 463, 474--477, 
+        498--501, 503, 581--590
+checksource: line length > 72 characters
+   file "#bigint.cpp#": 8 errors: lines 61, 152, 325, 376, 418, 470, 
+        535, 571
+checksource: TOTAL COMPLAINTS: 90
